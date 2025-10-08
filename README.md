@@ -58,9 +58,11 @@ cd autonomous-robot-navigation
 
 ## 📊 Example Output
 
-Enter IR sensor value: 15  
-Enter Ultrasonic sensor value: 28  
+Enter IR sensor value: 10  
+Enter Ultrasonic sensor value: 100  
 
 Decision:  
   • Motor speed: SLOW  
   • Steering:    LEFT  
+
+-- program is finished running (0) --
