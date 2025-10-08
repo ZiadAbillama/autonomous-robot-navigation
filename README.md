@@ -36,13 +36,10 @@ The navigation system operates in four main stages:
 
 ## 🚀 How to Run
 
-**1. Download and install the RARS RISC-V simulator**: [RARS GitHub](https://github.com/TheThirdOne/rars)  
-**2. Clone this repository or download the ZIP:
-
-```bash
-git clone https://github.com/YourUsername/autonomous-robot-navigation.git
-cd autonomous-robot-navigation
-```
+**1. Download and install the RARS RISC-V simulator:** [RARS GitHub](https://github.com/TheThirdOne/rars)  
+**2. Clone this repository or download the ZIP:**  
+git clone https://github.com/YourUsername/autonomous-robot-navigation.git  
+cd autonomous-robot-navigation  
 3. Open the nav.asm file in RARS  
 4. Assemble and run the program  
 5. When prompted, enter sensor values:  
